@@ -1,1 +1,1 @@
-# cdemos
+# some c/cpp demos
